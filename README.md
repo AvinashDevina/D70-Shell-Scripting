@@ -1,1 +1,1 @@
-# D70-Shell-Scripting ji ji
+# D70-Shell-Scripting
